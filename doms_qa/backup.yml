@@ -1,3 +1,0 @@
----
-- name: backup
-  win_shell: E:/web/Update_DOMS.ps1

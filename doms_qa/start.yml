@@ -1,5 +1,0 @@
----
-- name: Start IIS 
-  win_service:
-   name     : W3SVC
-   state    : started
